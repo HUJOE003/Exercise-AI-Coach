@@ -1,7 +1,7 @@
 # Exercise AI Coach
 
 **Status**: In Progress 🚧  
-**Last Updated**: [Date]
+**Last Updated**: Fri, Aug 16
 
 ## Table of Contents
 
