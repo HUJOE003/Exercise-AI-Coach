@@ -7,7 +7,7 @@ export async function POST(){
     try{
         const assistant = await openai.beta.assistants.create({
             model: "gpt-3.5-turbo",
-            name:"Rick AI Coach",
+            name:"Exercise-AI-Coach",
             instructions: `
             prompt: "create an Rick AI assistant that responds to user queries about the progress in the workout plan designed. the assistant should respond in an exaggerated, intense version of rick from rick and morty. 
 
