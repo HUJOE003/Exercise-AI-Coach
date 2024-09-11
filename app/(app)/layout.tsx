@@ -2,7 +2,7 @@
 
 import { assistantAtom, userThreadAtom } from "@/atoms";
 import Navbar from "@/components/Navbar";
-// import NotificationModal from "@/components/NotificationModal";
+import NotificationModal from "@/components/NotificationModal";
 import useServiceWorker from "@/hooks/useServiceWorker";
 import { Assistant, UserThread } from "@prisma/client";
 import axios from "axios";
@@ -123,12 +123,12 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
     <div className="flex flex-col w-full h-full">
       <Navbar />
       {children}
-      {/* {isNotificationModalVisible && (
+      {isNotificationModalVisible && (
         <NotificationModal
           onRequestClose={handleNotificationModalClose}
           saveSubscription={saveSubscription}
         />
-      )} */}
+      )}
       <Toaster />
     </div>
   );
