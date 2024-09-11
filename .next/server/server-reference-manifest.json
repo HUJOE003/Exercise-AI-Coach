@@ -2,19 +2,15 @@
   "node": {
     "47c21888f52ecfc1b82aa2af8af8dec55c187ca8": {
       "workers": {
-        "app/sign-in/[[...sign-in]]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
         "app/(app)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/_not-found/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/(app)/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/_not-found/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/sign-in/[[...sign-in]]/page": "action-browser",
         "app/(app)/page": "action-browser",
-        "app/_not-found/page": "action-browser",
-        "app/(app)/profile/page": "action-browser"
+        "app/_not-found/page": "action-browser"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "Qr5wqHkXHaP/NPuAtD+HgwrlTc/iSoFdXEPs/zrAk+E="
+  "encryptionKey": "JLBjr4tmTD1h5xC2lVu0wfZ23EWysDrZ8n+/xUl1nPs="
 }

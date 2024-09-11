@@ -19,7 +19,7 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
   const [isNotificationModalVisible, setIsNotificationModalVisible] =
     useState(false);
 
-  // // Hooks
+  // Hooks
   useServiceWorker();
 
   useEffect(() => {

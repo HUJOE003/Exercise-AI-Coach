@@ -1,9 +1,7 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/sign-in/[[...sign-in]]/page": "app/sign-in/[[...sign-in]]/page.js",
-  "/api/assistant/route": "app/api/assistant/route.js",
-  "/api/user-thread/route": "app/api/user-thread/route.js",
   "/api/message/list/route": "app/api/message/list/route.js",
-  "/(app)/page": "app/(app)/page.js",
-  "/(app)/profile/page": "app/(app)/profile/page.js"
+  "/api/user-thread/route": "app/api/user-thread/route.js",
+  "/api/assistant/route": "app/api/assistant/route.js",
+  "/(app)/page": "app/(app)/page.js"
 }
