@@ -218,7 +218,7 @@ function ChatPage() {
               ["true", "True"].includes(
                 (message.metadata as { fromUser?: string }).fromUser ?? ""
               )
-                ? "bg-yellow-500 ml-auto"
+                ? "bg-green-500 ml-auto"
                 : "bg-gray-700"
             }`}
           >
