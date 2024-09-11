@@ -13,7 +13,7 @@ const isPublicRoute = createRouteMatcher([
   '/api/openai(.*)',
   '/api/subscription(.*)',
   '/api/challenge-users(.*)',
-  "/api/send-notifications(.*)",
+  "/api/send-notification(.*)",
   ]);
 
 export default clerkMiddleware((auth, request) => {
