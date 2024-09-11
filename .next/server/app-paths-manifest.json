@@ -1,3 +1,4 @@
 {
+  "/api/user-thread/route": "app/api/user-thread/route.js",
   "/(app)/page": "app/(app)/page.js"
 }

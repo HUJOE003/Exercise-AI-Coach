@@ -89,6 +89,17 @@ module.exports = require("next/dist/compiled/next-server/app-page.runtime.dev.js
 
 /***/ }),
 
+/***/ "assert":
+/*!*************************!*\
+  !*** external "assert" ***!
+  \*************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("assert");
+
+/***/ }),
+
 /***/ "crypto":
 /*!*************************!*\
   !*** external "crypto" ***!
@@ -97,6 +108,17 @@ module.exports = require("next/dist/compiled/next-server/app-page.runtime.dev.js
 
 "use strict";
 module.exports = require("crypto");
+
+/***/ }),
+
+/***/ "events":
+/*!*************************!*\
+  !*** external "events" ***!
+  \*************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("events");
 
 /***/ }),
 
@@ -111,6 +133,28 @@ module.exports = require("fs");
 
 /***/ }),
 
+/***/ "http":
+/*!***********************!*\
+  !*** external "http" ***!
+  \***********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("http");
+
+/***/ }),
+
+/***/ "https":
+/*!************************!*\
+  !*** external "https" ***!
+  \************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("https");
+
+/***/ }),
+
 /***/ "node:crypto":
 /*!******************************!*\
   !*** external "node:crypto" ***!
@@ -119,6 +163,17 @@ module.exports = require("fs");
 
 "use strict";
 module.exports = require("node:crypto");
+
+/***/ }),
+
+/***/ "os":
+/*!*********************!*\
+  !*** external "os" ***!
+  \*********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("os");
 
 /***/ }),
 
@@ -144,6 +199,17 @@ module.exports = require("stream");
 
 /***/ }),
 
+/***/ "tty":
+/*!**********************!*\
+  !*** external "tty" ***!
+  \**********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("tty");
+
+/***/ }),
+
 /***/ "url":
 /*!**********************!*\
   !*** external "url" ***!
@@ -152,6 +218,17 @@ module.exports = require("stream");
 
 "use strict";
 module.exports = require("url");
+
+/***/ }),
+
+/***/ "util":
+/*!***********************!*\
+  !*** external "util" ***!
+  \***********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("util");
 
 /***/ }),
 
@@ -187,6 +264,16 @@ eval("\nconst actions = {\n'47c21888f52ecfc1b82aa2af8af8dec55c187ca8': () => Pro
 
 /***/ }),
 
+/***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fapp%2F(app)%2Flayout.tsx%22%2C%22ids%22%3A%5B%5D%7D&server=true!":
+/*!**********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fapp%2F(app)%2Flayout.tsx%22%2C%22ids%22%3A%5B%5D%7D&server=true! ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/(app)/layout.tsx */ \"(ssr)/./app/(app)/layout.tsx\"));\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMiUyRlVzZXJzJTJGX19IdWpvZV9fJTJGRG9jdW1lbnRzJTJGRXhlcmNpc2UlMjB3ZWIlMjBhcHAlMkZFeGVyY2lzZS1BSS1Db2FjaCUyRmFwcCUyRihhcHApJTJGbGF5b3V0LnRzeCUyMiUyQyUyMmlkcyUyMiUzQSU1QiU1RCU3RCZzZXJ2ZXI9dHJ1ZSEiLCJtYXBwaW5ncyI6IkFBQUEsd0pBQXVIIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vaHVqb2UtYWktY29hY2gvP2RlNjEiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCIvVXNlcnMvX19IdWpvZV9fL0RvY3VtZW50cy9FeGVyY2lzZSB3ZWIgYXBwL0V4ZXJjaXNlLUFJLUNvYWNoL2FwcC8oYXBwKS9sYXlvdXQudHN4XCIpO1xuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fapp%2F(app)%2Flayout.tsx%22%2C%22ids%22%3A%5B%5D%7D&server=true!\n");
+
+/***/ }),
+
 /***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fapp%2Fglobals.css%22%2C%22ids%22%3A%5B%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fclient%2FClerkProvider.js%22%2C%22ids%22%3A%5B%22ClientClerkProvider%22%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fclient-boundary%2FcontrolComponents.js%22%2C%22ids%22%3A%5B%22AuthenticateWithRedirectCallback%22%2C%22ClerkLoaded%22%2C%22ClerkLoading%22%2C%22RedirectToCreateOrganization%22%2C%22RedirectToOrganizationProfile%22%2C%22RedirectToSignIn%22%2C%22RedirectToSignUp%22%2C%22RedirectToUserProfile%22%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fclient-boundary%2Fhooks.js%22%2C%22ids%22%3A%5B%22useAuth%22%2C%22useClerk%22%2C%22useEmailLink%22%2C%22useOrganization%22%2C%22useOrganizationList%22%2C%22useSession%22%2C%22useSessionList%22%2C%22useSignIn%22%2C%22useSignUp%22%2C%22useUser%22%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fclient-boundary%2FuiComponents.js%22%2C%22ids%22%3A%5B%22CreateOrganization%22%2C%22GoogleOneTap%22%2C%22OrganizationList%22%2C%22OrganizationProfile%22%2C%22OrganizationSwitcher%22%2C%22SignIn%22%2C%22SignInButton%22%2C%22SignInWithMetamaskButton%22%2C%22SignOutButton%22%2C%22SignUp%22%2C%22SignUpButton%22%2C%22UserButton%22%2C%22UserProfile%22%2C%22__experimental_UserVerification%22%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2Fnext%2Ffont%2Fgoogle%2Ftarget.css%3F%7B%5C%22path%5C%22%3A%5C%22app%2Flayout.tsx%5C%22%2C%5C%22import%5C%22%3A%5C%22Inter%5C%22%2C%5C%22arguments%5C%22%3A%5B%7B%5C%22subsets%5C%22%3A%5B%5C%22latin%5C%22%5D%7D%5D%2C%5C%22variableName%5C%22%3A%5C%22inter%5C%22%7D%22%2C%22ids%22%3A%5B%5D%7D&server=true!":
 /*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fapp%2Fglobals.css%22%2C%22ids%22%3A%5B%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fclient%2FClerkProvider.js%22%2C%22ids%22%3A%5B%22ClientClerkProvider%22%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fclient-boundary%2FcontrolComponents.js%22%2C%22ids%22%3A%5B%22AuthenticateWithRedirectCallback%22%2C%22ClerkLoaded%22%2C%22ClerkLoading%22%2C%22RedirectToCreateOrganization%22%2C%22RedirectToOrganizationProfile%22%2C%22RedirectToSignIn%22%2C%22RedirectToSignUp%22%2C%22RedirectToUserProfile%22%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fclient-boundary%2Fhooks.js%22%2C%22ids%22%3A%5B%22useAuth%22%2C%22useClerk%22%2C%22useEmailLink%22%2C%22useOrganization%22%2C%22useOrganizationList%22%2C%22useSession%22%2C%22useSessionList%22%2C%22useSignIn%22%2C%22useSignUp%22%2C%22useUser%22%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fclient-boundary%2FuiComponents.js%22%2C%22ids%22%3A%5B%22CreateOrganization%22%2C%22GoogleOneTap%22%2C%22OrganizationList%22%2C%22OrganizationProfile%22%2C%22OrganizationSwitcher%22%2C%22SignIn%22%2C%22SignInButton%22%2C%22SignInWithMetamaskButton%22%2C%22SignOutButton%22%2C%22SignUp%22%2C%22SignUpButton%22%2C%22UserButton%22%2C%22UserProfile%22%2C%22__experimental_UserVerification%22%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2Fnext%2Ffont%2Fgoogle%2Ftarget.css%3F%7B%5C%22path%5C%22%3A%5C%22app%2Flayout.tsx%5C%22%2C%5C%22import%5C%22%3A%5C%22Inter%5C%22%2C%5C%22arguments%5C%22%3A%5B%7B%5C%22subsets%5C%22%3A%5B%5C%22latin%5C%22%5D%7D%5D%2C%5C%22variableName%5C%22%3A%5C%22inter%5C%22%7D%22%2C%22ids%22%3A%5B%5D%7D&server=true! ***!
@@ -194,16 +281,6 @@ eval("\nconst actions = {\n'47c21888f52ecfc1b82aa2af8af8dec55c187ca8': () => Pro
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./node_modules/@clerk/nextjs/dist/esm/app-router/client/ClerkProvider.js */ \"(ssr)/./node_modules/@clerk/nextjs/dist/esm/app-router/client/ClerkProvider.js\"));\n;\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./node_modules/@clerk/nextjs/dist/esm/client-boundary/controlComponents.js */ \"(ssr)/./node_modules/@clerk/nextjs/dist/esm/client-boundary/controlComponents.js\"));\n;\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./node_modules/@clerk/nextjs/dist/esm/client-boundary/hooks.js */ \"(ssr)/./node_modules/@clerk/nextjs/dist/esm/client-boundary/hooks.js\"));\n;\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./node_modules/@clerk/nextjs/dist/esm/client-boundary/uiComponents.js */ \"(ssr)/./node_modules/@clerk/nextjs/dist/esm/client-boundary/uiComponents.js\"));\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMiUyRlVzZXJzJTJGX19IdWpvZV9fJTJGRG9jdW1lbnRzJTJGRXhlcmNpc2UlMjB3ZWIlMjBhcHAlMkZFeGVyY2lzZS1BSS1Db2FjaCUyRmFwcCUyRmdsb2JhbHMuY3NzJTIyJTJDJTIyaWRzJTIyJTNBJTVCJTVEJTdEJm1vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMiUyRlVzZXJzJTJGX19IdWpvZV9fJTJGRG9jdW1lbnRzJTJGRXhlcmNpc2UlMjB3ZWIlMjBhcHAlMkZFeGVyY2lzZS1BSS1Db2FjaCUyRm5vZGVfbW9kdWxlcyUyRiU0MGNsZXJrJTJGbmV4dGpzJTJGZGlzdCUyRmVzbSUyRmFwcC1yb3V0ZXIlMkZjbGllbnQlMkZDbGVya1Byb3ZpZGVyLmpzJTIyJTJDJTIyaWRzJTIyJTNBJTVCJTIyQ2xpZW50Q2xlcmtQcm92aWRlciUyMiU1RCU3RCZtb2R1bGVzPSU3QiUyMnJlcXVlc3QlMjIlM0ElMjIlMkZVc2VycyUyRl9fSHVqb2VfXyUyRkRvY3VtZW50cyUyRkV4ZXJjaXNlJTIwd2ViJTIwYXBwJTJGRXhlcmNpc2UtQUktQ29hY2glMkZub2RlX21vZHVsZXMlMkYlNDBjbGVyayUyRm5leHRqcyUyRmRpc3QlMkZlc20lMkZjbGllbnQtYm91bmRhcnklMkZjb250cm9sQ29tcG9uZW50cy5qcyUyMiUyQyUyMmlkcyUyMiUzQSU1QiUyMkF1dGhlbnRpY2F0ZVdpdGhSZWRpcmVjdENhbGxiYWNrJTIyJTJDJTIyQ2xlcmtMb2FkZWQlMjIlMkMlMjJDbGVya0xvYWRpbmclMjIlMkMlMjJSZWRpcmVjdFRvQ3JlYXRlT3JnYW5pemF0aW9uJTIyJTJDJTIyUmVkaXJlY3RUb09yZ2FuaXphdGlvblByb2ZpbGUlMjIlMkMlMjJSZWRpcmVjdFRvU2lnbkluJTIyJTJDJTIyUmVkaXJlY3RUb1NpZ25VcCUyMiUyQyUyMlJlZGlyZWN0VG9Vc2VyUHJvZmlsZSUyMiU1RCU3RCZtb2R1bGVzPSU3QiUyMnJlcXVlc3QlMjIlM0ElMjIlMkZVc2VycyUyRl9fSHVqb2VfXyUyRkRvY3VtZW50cyUyRkV4ZXJjaXNlJTIwd2ViJTIwYXBwJTJGRXhlcmNpc2UtQUktQ29hY2glMkZub2RlX21vZHVsZXMlMkYlNDBjbGVyayUyRm5leHRqcyUyRmRpc3QlMkZlc20lMkZjbGllbnQtYm91bmRhcnklMkZob29rcy5qcyUyMiUyQyUyMmlkcyUyMiUzQSU1QiUyMnVzZUF1dGglMjIlMkMlMjJ1c2VDbGVyayUyMiUyQyUyMnVzZUVtYWlsTGluayUyMiUyQyUyMnVzZU9yZ2FuaXphdGlvbiUyMiUyQyUyMnVzZU9yZ2FuaXphdGlvbkxpc3QlMjIlMkMlMjJ1c2VTZXNzaW9uJTIyJTJDJTIydXNlU2Vzc2lvbkxpc3QlMjIlMkMlMjJ1c2VTaWduSW4lMjIlMkMlMjJ1c2VTaWduVXAlMjIlMkMlMjJ1c2VVc2VyJTIyJTVEJTdEJm1vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMiUyRlVzZXJzJTJGX19IdWpvZV9fJTJGRG9jdW1lbnRzJTJGRXhlcmNpc2UlMjB3ZWIlMjBhcHAlMkZFeGVyY2lzZS1BSS1Db2FjaCUyRm5vZGVfbW9kdWxlcyUyRiU0MGNsZXJrJTJGbmV4dGpzJTJGZGlzdCUyRmVzbSUyRmNsaWVudC1ib3VuZGFyeSUyRnVpQ29tcG9uZW50cy5qcyUyMiUyQyUyMmlkcyUyMiUzQSU1QiUyMkNyZWF0ZU9yZ2FuaXphdGlvbiUyMiUyQyUyMkdvb2dsZU9uZVRhcCUyMiUyQyUyMk9yZ2FuaXphdGlvbkxpc3QlMjIlMkMlMjJPcmdhbml6YXRpb25Qcm9maWxlJTIyJTJDJTIyT3JnYW5pemF0aW9uU3dpdGNoZXIlMjIlMkMlMjJTaWduSW4lMjIlMkMlMjJTaWduSW5CdXR0b24lMjIlMkMlMjJTaWduSW5XaXRoTWV0YW1hc2tCdXR0b24lMjIlMkMlMjJTaWduT3V0QnV0dG9uJTIyJTJDJTIyU2lnblVwJTIyJTJDJTIyU2lnblVwQnV0dG9uJTIyJTJDJTIyVXNlckJ1dHRvbiUyMiUyQyUyMlVzZXJQcm9maWxlJTIyJTJDJTIyX19leHBlcmltZW50YWxfVXNlclZlcmlmaWNhdGlvbiUyMiU1RCU3RCZtb2R1bGVzPSU3QiUyMnJlcXVlc3QlMjIlM0ElMjIlMkZVc2VycyUyRl9fSHVqb2VfXyUyRkRvY3VtZW50cyUyRkV4ZXJjaXNlJTIwd2ViJTIwYXBwJTJGRXhlcmNpc2UtQUktQ29hY2glMkZub2RlX21vZHVsZXMlMkZuZXh0JTJGZm9udCUyRmdvb2dsZSUyRnRhcmdldC5jc3MlM0YlN0IlNUMlMjJwYXRoJTVDJTIyJTNBJTVDJTIyYXBwJTJGbGF5b3V0LnRzeCU1QyUyMiUyQyU1QyUyMmltcG9ydCU1QyUyMiUzQSU1QyUyMkludGVyJTVDJTIyJTJDJTVDJTIyYXJndW1lbnRzJTVDJTIyJTNBJTVCJTdCJTVDJTIyc3Vic2V0cyU1QyUyMiUzQSU1QiU1QyUyMmxhdGluJTVDJTIyJTVEJTdEJTVEJTJDJTVDJTIydmFyaWFibGVOYW1lJTVDJTIyJTNBJTVDJTIyaW50ZXIlNUMlMjIlN0QlMjIlMkMlMjJpZHMlMjIlM0ElNUIlNUQlN0Qmc2VydmVyPXRydWUhIiwibWFwcGluZ3MiOiJBQUFBLDRQQUFrTjtBQUNsTjtBQUNBLGdRQUEyWDtBQUMzWDtBQUNBLHdPQUE4VDtBQUM5VDtBQUNBLHNQQUFxYiIsInNvdXJjZXMiOlsid2VicGFjazovL2h1am9lLWFpLWNvYWNoLz85MzE0Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiLCB3ZWJwYWNrRXhwb3J0czogW1wiQ2xpZW50Q2xlcmtQcm92aWRlclwiXSAqLyBcIi9Vc2Vycy9fX0h1am9lX18vRG9jdW1lbnRzL0V4ZXJjaXNlIHdlYiBhcHAvRXhlcmNpc2UtQUktQ29hY2gvbm9kZV9tb2R1bGVzL0BjbGVyay9uZXh0anMvZGlzdC9lc20vYXBwLXJvdXRlci9jbGllbnQvQ2xlcmtQcm92aWRlci5qc1wiKTtcbjtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiLCB3ZWJwYWNrRXhwb3J0czogW1wiQXV0aGVudGljYXRlV2l0aFJlZGlyZWN0Q2FsbGJhY2tcIixcIkNsZXJrTG9hZGVkXCIsXCJDbGVya0xvYWRpbmdcIixcIlJlZGlyZWN0VG9DcmVhdGVPcmdhbml6YXRpb25cIixcIlJlZGlyZWN0VG9Pcmdhbml6YXRpb25Qcm9maWxlXCIsXCJSZWRpcmVjdFRvU2lnbkluXCIsXCJSZWRpcmVjdFRvU2lnblVwXCIsXCJSZWRpcmVjdFRvVXNlclByb2ZpbGVcIl0gKi8gXCIvVXNlcnMvX19IdWpvZV9fL0RvY3VtZW50cy9FeGVyY2lzZSB3ZWIgYXBwL0V4ZXJjaXNlLUFJLUNvYWNoL25vZGVfbW9kdWxlcy9AY2xlcmsvbmV4dGpzL2Rpc3QvZXNtL2NsaWVudC1ib3VuZGFyeS9jb250cm9sQ29tcG9uZW50cy5qc1wiKTtcbjtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiLCB3ZWJwYWNrRXhwb3J0czogW1widXNlQXV0aFwiLFwidXNlQ2xlcmtcIixcInVzZUVtYWlsTGlua1wiLFwidXNlT3JnYW5pemF0aW9uXCIsXCJ1c2VPcmdhbml6YXRpb25MaXN0XCIsXCJ1c2VTZXNzaW9uXCIsXCJ1c2VTZXNzaW9uTGlzdFwiLFwidXNlU2lnbkluXCIsXCJ1c2VTaWduVXBcIixcInVzZVVzZXJcIl0gKi8gXCIvVXNlcnMvX19IdWpvZV9fL0RvY3VtZW50cy9FeGVyY2lzZSB3ZWIgYXBwL0V4ZXJjaXNlLUFJLUNvYWNoL25vZGVfbW9kdWxlcy9AY2xlcmsvbmV4dGpzL2Rpc3QvZXNtL2NsaWVudC1ib3VuZGFyeS9ob29rcy5qc1wiKTtcbjtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiLCB3ZWJwYWNrRXhwb3J0czogW1wiQ3JlYXRlT3JnYW5pemF0aW9uXCIsXCJHb29nbGVPbmVUYXBcIixcIk9yZ2FuaXphdGlvbkxpc3RcIixcIk9yZ2FuaXphdGlvblByb2ZpbGVcIixcIk9yZ2FuaXphdGlvblN3aXRjaGVyXCIsXCJTaWduSW5cIixcIlNpZ25JbkJ1dHRvblwiLFwiU2lnbkluV2l0aE1ldGFtYXNrQnV0dG9uXCIsXCJTaWduT3V0QnV0dG9uXCIsXCJTaWduVXBcIixcIlNpZ25VcEJ1dHRvblwiLFwiVXNlckJ1dHRvblwiLFwiVXNlclByb2ZpbGVcIixcIl9fZXhwZXJpbWVudGFsX1VzZXJWZXJpZmljYXRpb25cIl0gKi8gXCIvVXNlcnMvX19IdWpvZV9fL0RvY3VtZW50cy9FeGVyY2lzZSB3ZWIgYXBwL0V4ZXJjaXNlLUFJLUNvYWNoL25vZGVfbW9kdWxlcy9AY2xlcmsvbmV4dGpzL2Rpc3QvZXNtL2NsaWVudC1ib3VuZGFyeS91aUNvbXBvbmVudHMuanNcIik7XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fapp%2Fglobals.css%22%2C%22ids%22%3A%5B%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fclient%2FClerkProvider.js%22%2C%22ids%22%3A%5B%22ClientClerkProvider%22%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fclient-boundary%2FcontrolComponents.js%22%2C%22ids%22%3A%5B%22AuthenticateWithRedirectCallback%22%2C%22ClerkLoaded%22%2C%22ClerkLoading%22%2C%22RedirectToCreateOrganization%22%2C%22RedirectToOrganizationProfile%22%2C%22RedirectToSignIn%22%2C%22RedirectToSignUp%22%2C%22RedirectToUserProfile%22%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fclient-boundary%2Fhooks.js%22%2C%22ids%22%3A%5B%22useAuth%22%2C%22useClerk%22%2C%22useEmailLink%22%2C%22useOrganization%22%2C%22useOrganizationList%22%2C%22useSession%22%2C%22useSessionList%22%2C%22useSignIn%22%2C%22useSignUp%22%2C%22useUser%22%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fclient-boundary%2FuiComponents.js%22%2C%22ids%22%3A%5B%22CreateOrganization%22%2C%22GoogleOneTap%22%2C%22OrganizationList%22%2C%22OrganizationProfile%22%2C%22OrganizationSwitcher%22%2C%22SignIn%22%2C%22SignInButton%22%2C%22SignInWithMetamaskButton%22%2C%22SignOutButton%22%2C%22SignUp%22%2C%22SignUpButton%22%2C%22UserButton%22%2C%22UserProfile%22%2C%22__experimental_UserVerification%22%5D%7D&modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fnode_modules%2Fnext%2Ffont%2Fgoogle%2Ftarget.css%3F%7B%5C%22path%5C%22%3A%5C%22app%2Flayout.tsx%5C%22%2C%5C%22import%5C%22%3A%5C%22Inter%5C%22%2C%5C%22arguments%5C%22%3A%5B%7B%5C%22subsets%5C%22%3A%5B%5C%22latin%5C%22%5D%7D%5D%2C%5C%22variableName%5C%22%3A%5C%22inter%5C%22%7D%22%2C%22ids%22%3A%5B%5D%7D&server=true!\n");
-
-/***/ }),
-
-/***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fcomponents%2FNavbar.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&server=true!":
-/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fcomponents%2FNavbar.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&server=true! ***!
-  \**********************************************************************************************************************************************************************************************************************************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/Navbar.tsx */ \"(ssr)/./components/Navbar.tsx\"));\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMiUyRlVzZXJzJTJGX19IdWpvZV9fJTJGRG9jdW1lbnRzJTJGRXhlcmNpc2UlMjB3ZWIlMjBhcHAlMkZFeGVyY2lzZS1BSS1Db2FjaCUyRmNvbXBvbmVudHMlMkZOYXZiYXIudHN4JTIyJTJDJTIyaWRzJTIyJTNBJTVCJTIyZGVmYXVsdCUyMiU1RCU3RCZzZXJ2ZXI9dHJ1ZSEiLCJtYXBwaW5ncyI6IkFBQUEsMEpBQXFKIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vaHVqb2UtYWktY29hY2gvPzQxOTkiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIsIHdlYnBhY2tFeHBvcnRzOiBbXCJkZWZhdWx0XCJdICovIFwiL1VzZXJzL19fSHVqb2VfXy9Eb2N1bWVudHMvRXhlcmNpc2Ugd2ViIGFwcC9FeGVyY2lzZS1BSS1Db2FjaC9jb21wb25lbnRzL05hdmJhci50c3hcIik7XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fcomponents%2FNavbar.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&server=true!\n");
 
 /***/ }),
 
@@ -224,6 +301,17 @@ eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__w
 /***/ (() => {
 
 
+
+/***/ }),
+
+/***/ "(ssr)/./app/(app)/layout.tsx":
+/*!******************************!*\
+  !*** ./app/(app)/layout.tsx ***!
+  \******************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ AppLayout)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_Navbar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/components/Navbar */ \"(ssr)/./components/Navbar.tsx\");\n/* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! axios */ \"(ssr)/./node_modules/axios/lib/axios.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ \"(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);\n/* __next_internal_client_entry_do_not_use__ default auto */ \n\n\n\nfunction AppLayout({ children }) {\n    const [userThread, setUserThread] = (0,react__WEBPACK_IMPORTED_MODULE_2__.useState)(null);\n    (0,react__WEBPACK_IMPORTED_MODULE_2__.useEffect)(()=>{\n        async function getUserThread() {\n            try {\n                const response = await axios__WEBPACK_IMPORTED_MODULE_3__[\"default\"].get(\"/api/user-thread\");\n                if (!response.data.success || !response.data.userThread) {\n                    console.error(response.data.message ?? \"Unknown error.\");\n                    setUserThread(null);\n                    return;\n                }\n                setUserThread(response.data.userThread);\n            } catch (error) {\n                console.error(error);\n                setUserThread(null);\n            }\n        }\n        getUserThread();\n    }, [\n        setUserThread\n    ]);\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"flex flex-col w-full h-full\",\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Navbar__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {}, void 0, false, {\n                fileName: \"/Users/__Hujoe__/Documents/Exercise web app/Exercise-AI-Coach/app/(app)/layout.tsx\",\n                lineNumber: 39,\n                columnNumber: 9\n            }, this),\n            children\n        ]\n    }, void 0, true, {\n        fileName: \"/Users/__Hujoe__/Documents/Exercise web app/Exercise-AI-Coach/app/(app)/layout.tsx\",\n        lineNumber: 38,\n        columnNumber: 7\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9hcHAvKGFwcCkvbGF5b3V0LnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7OztBQUV5QztBQUVmO0FBQ2tCO0FBRzdCLFNBQVNJLFVBQVUsRUFBQ0MsUUFBUSxFQUEwQztJQUVuRixNQUFNLENBQUNDLFlBQVlDLGNBQWMsR0FBR0osK0NBQVFBLENBQW9CO0lBQ2hFRCxnREFBU0EsQ0FBQztRQUNSLGVBQWVNO1lBQ2IsSUFBSTtnQkFDRixNQUFNQyxXQUFXLE1BQU1SLDZDQUFLQSxDQUFDUyxHQUFHLENBSTdCO2dCQUVILElBQUksQ0FBQ0QsU0FBU0UsSUFBSSxDQUFDQyxPQUFPLElBQUksQ0FBQ0gsU0FBU0UsSUFBSSxDQUFDTCxVQUFVLEVBQUU7b0JBQ3ZETyxRQUFRQyxLQUFLLENBQUNMLFNBQVNFLElBQUksQ0FBQ0ksT0FBTyxJQUFJO29CQUN2Q1IsY0FBYztvQkFDZDtnQkFDRjtnQkFFQUEsY0FBY0UsU0FBU0UsSUFBSSxDQUFDTCxVQUFVO1lBQ3hDLEVBQUUsT0FBT1EsT0FBTztnQkFDZEQsUUFBUUMsS0FBSyxDQUFDQTtnQkFDZFAsY0FBYztZQUNoQjtRQUNGO1FBRUFDO0lBQ0YsR0FBRztRQUFDRDtLQUFjO0lBQ2hCLHFCQUVFLDhEQUFDUztRQUFJQyxXQUFVOzswQkFDYiw4REFBQ2pCLDBEQUFNQTs7Ozs7WUFDTks7Ozs7Ozs7QUFLUCIsInNvdXJjZXMiOlsid2VicGFjazovL2h1am9lLWFpLWNvYWNoLy4vYXBwLyhhcHApL2xheW91dC50c3g/MzVmOCJdLCJzb3VyY2VzQ29udGVudCI6WyJcInVzZSBjbGllbnRcIlxuXG5pbXBvcnQgTmF2YmFyIGZyb20gXCJAL2NvbXBvbmVudHMvTmF2YmFyXCI7XG5pbXBvcnQgeyBVc2VyVGhyZWFkIH0gZnJvbSBcIkBwcmlzbWEvY2xpZW50XCI7XG5pbXBvcnQgYXhpb3MgZnJvbSBcImF4aW9zXCI7XG5pbXBvcnQgeyB1c2VFZmZlY3QsIHVzZVN0YXRlIH0gZnJvbSBcInJlYWN0XCI7XG5cblxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQXBwTGF5b3V0KHtjaGlsZHJlbix9OiBSZWFkb25seTx7Y2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZTt9PilcbiB7XG4gIGNvbnN0IFt1c2VyVGhyZWFkLCBzZXRVc2VyVGhyZWFkXSA9IHVzZVN0YXRlPFVzZXJUaHJlYWQgfCBudWxsPihudWxsKTtcbiAgdXNlRWZmZWN0KCgpID0+IHtcbiAgICBhc3luYyBmdW5jdGlvbiBnZXRVc2VyVGhyZWFkKCkge1xuICAgICAgdHJ5IHtcbiAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBheGlvcy5nZXQ8e1xuICAgICAgICAgIHN1Y2Nlc3M6IGJvb2xlYW47XG4gICAgICAgICAgbWVzc2FnZT86IHN0cmluZztcbiAgICAgICAgICB1c2VyVGhyZWFkOiBVc2VyVGhyZWFkO1xuICAgICAgICB9PihcIi9hcGkvdXNlci10aHJlYWRcIik7XG5cbiAgICAgICAgaWYgKCFyZXNwb25zZS5kYXRhLnN1Y2Nlc3MgfHwgIXJlc3BvbnNlLmRhdGEudXNlclRocmVhZCkge1xuICAgICAgICAgIGNvbnNvbGUuZXJyb3IocmVzcG9uc2UuZGF0YS5tZXNzYWdlID8/IFwiVW5rbm93biBlcnJvci5cIik7XG4gICAgICAgICAgc2V0VXNlclRocmVhZChudWxsKTtcbiAgICAgICAgICByZXR1cm47XG4gICAgICAgIH1cblxuICAgICAgICBzZXRVc2VyVGhyZWFkKHJlc3BvbnNlLmRhdGEudXNlclRocmVhZCk7XG4gICAgICB9IGNhdGNoIChlcnJvcikge1xuICAgICAgICBjb25zb2xlLmVycm9yKGVycm9yKTtcbiAgICAgICAgc2V0VXNlclRocmVhZChudWxsKTtcbiAgICAgIH1cbiAgICB9XG5cbiAgICBnZXRVc2VyVGhyZWFkKCk7XG4gIH0sIFtzZXRVc2VyVGhyZWFkXSk7XG4gICAgcmV0dXJuIChcblxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJmbGV4IGZsZXgtY29sIHctZnVsbCBoLWZ1bGxcIj5cbiAgICAgICAgPE5hdmJhciAvPlxuICAgICAgICB7Y2hpbGRyZW59XG5cbiAgICAgIDwvZGl2PlxuXG4gICAgKTtcbiAgfVxuICAiXSwibmFtZXMiOlsiTmF2YmFyIiwiYXhpb3MiLCJ1c2VFZmZlY3QiLCJ1c2VTdGF0ZSIsIkFwcExheW91dCIsImNoaWxkcmVuIiwidXNlclRocmVhZCIsInNldFVzZXJUaHJlYWQiLCJnZXRVc2VyVGhyZWFkIiwicmVzcG9uc2UiLCJnZXQiLCJkYXRhIiwic3VjY2VzcyIsImNvbnNvbGUiLCJlcnJvciIsIm1lc3NhZ2UiLCJkaXYiLCJjbGFzc05hbWUiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(ssr)/./app/(app)/layout.tsx\n");
 
 /***/ }),
 
@@ -256,7 +344,25 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ AppLayout)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(rsc)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_Navbar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/components/Navbar */ \"(rsc)/./components/Navbar.tsx\");\n\n\nfunction AppLayout({ children }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"flex flex-col w-full h-full\",\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Navbar__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {}, void 0, false, {\n                fileName: \"/Users/__Hujoe__/Documents/Exercise web app/Exercise-AI-Coach/app/(app)/layout.tsx\",\n                lineNumber: 9,\n                columnNumber: 9\n            }, this),\n            children\n        ]\n    }, void 0, true, {\n        fileName: \"/Users/__Hujoe__/Documents/Exercise web app/Exercise-AI-Coach/app/(app)/layout.tsx\",\n        lineNumber: 8,\n        columnNumber: 7\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvKGFwcCkvbGF5b3V0LnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7OztBQUF5QztBQUcxQixTQUFTQyxVQUFVLEVBQUNDLFFBQVEsRUFBMEM7SUFFakYscUJBRUUsOERBQUNDO1FBQUlDLFdBQVU7OzBCQUNiLDhEQUFDSiwwREFBTUE7Ozs7O1lBQ05FOzs7Ozs7O0FBS1AiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9odWpvZS1haS1jb2FjaC8uL2FwcC8oYXBwKS9sYXlvdXQudHN4PzM1ZjgiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IE5hdmJhciBmcm9tIFwiQC9jb21wb25lbnRzL05hdmJhclwiO1xuXG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEFwcExheW91dCh7Y2hpbGRyZW4sfTogUmVhZG9ubHk8e2NoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGU7fT4pXG4ge1xuICAgIHJldHVybiAoXG5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZmxleCBmbGV4LWNvbCB3LWZ1bGwgaC1mdWxsXCI+XG4gICAgICAgIDxOYXZiYXIgLz5cbiAgICAgICAge2NoaWxkcmVufVxuXG4gICAgICA8L2Rpdj5cblxuICAgICk7XG4gIH1cbiAgIl0sIm5hbWVzIjpbIk5hdmJhciIsIkFwcExheW91dCIsImNoaWxkcmVuIiwiZGl2IiwiY2xhc3NOYW1lIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./app/(app)/layout.tsx\n");
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
+/* harmony export */   __esModule: () => (/* binding */ __esModule),
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
+
+const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/Users/__Hujoe__/Documents/Exercise web app/Exercise-AI-Coach/app/(app)/layout.tsx`)
+
+// Accessing the __esModule property and exporting $$typeof are required here.
+// The __esModule getter forces the proxy target to create the default export
+// and the $$typeof value is for rendering logic to determine if the module
+// is a client boundary.
+const { __esModule, $$typeof } = proxy;
+const __default__ = proxy.default;
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/Users/__Hujoe__/Documents/Exercise web app/Exercise-AI-Coach/app/(app)/layout.tsx#default`));
+
 
 /***/ }),
 
@@ -282,35 +388,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
-/***/ "(rsc)/./components/Navbar.tsx":
-/*!*******************************!*\
-  !*** ./components/Navbar.tsx ***!
-  \*******************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
-/* harmony export */   __esModule: () => (/* binding */ __esModule),
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/Users/__Hujoe__/Documents/Exercise web app/Exercise-AI-Coach/components/Navbar.tsx`)
-
-// Accessing the __esModule property and exporting $$typeof are required here.
-// The __esModule getter forces the proxy target to create the default export
-// and the $$typeof value is for rendering logic to determine if the module
-// is a client boundary.
-const { __esModule, $$typeof } = proxy;
-const __default__ = proxy.default;
-
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/Users/__Hujoe__/Documents/Exercise web app/Exercise-AI-Coach/components/Navbar.tsx#default`));
-
-
-/***/ }),
-
 /***/ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-metadata-image-loader.js?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!./app/favicon.ico?__next_metadata__":
 /*!**********************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/next/dist/build/webpack/loaders/next-metadata-image-loader.js?type=favicon&segment=&basePath=&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js!./app/favicon.ico?__next_metadata__ ***!
@@ -329,7 +406,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 var __webpack_require__ = require("../../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/@swc","vendor-chunks/@clerk","vendor-chunks/crypto-js","vendor-chunks/swr","vendor-chunks/tslib","vendor-chunks/use-sync-external-store","vendor-chunks/cookie","vendor-chunks/map-obj","vendor-chunks/no-case","vendor-chunks/lower-case","vendor-chunks/snakecase-keys","vendor-chunks/snake-case","vendor-chunks/dot-case"], () => (__webpack_exec__("(rsc)/./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?name=app%2F(app)%2Fprofile%2Fpage&page=%2F(app)%2Fprofile%2Fpage&appPaths=%2F(app)%2Fprofile%2Fpage&pagePath=private-next-app-dir%2F(app)%2Fprofile%2Fpage.tsx&appDir=%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!")));
+var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/@swc","vendor-chunks/@clerk","vendor-chunks/mime-db","vendor-chunks/axios","vendor-chunks/crypto-js","vendor-chunks/swr","vendor-chunks/follow-redirects","vendor-chunks/debug","vendor-chunks/tslib","vendor-chunks/form-data","vendor-chunks/use-sync-external-store","vendor-chunks/asynckit","vendor-chunks/cookie","vendor-chunks/combined-stream","vendor-chunks/mime-types","vendor-chunks/proxy-from-env","vendor-chunks/ms","vendor-chunks/supports-color","vendor-chunks/delayed-stream","vendor-chunks/map-obj","vendor-chunks/no-case","vendor-chunks/lower-case","vendor-chunks/snakecase-keys","vendor-chunks/has-flag","vendor-chunks/snake-case","vendor-chunks/dot-case"], () => (__webpack_exec__("(rsc)/./node_modules/next/dist/build/webpack/loaders/next-app-loader.js?name=app%2F(app)%2Fprofile%2Fpage&page=%2F(app)%2Fprofile%2Fpage&appPaths=%2F(app)%2Fprofile%2Fpage&pagePath=private-next-app-dir%2F(app)%2Fprofile%2Fpage.tsx&appDir=%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach%2Fapp&pageExtensions=tsx&pageExtensions=ts&pageExtensions=jsx&pageExtensions=js&rootDir=%2FUsers%2F__Hujoe__%2FDocuments%2FExercise%20web%20app%2FExercise-AI-Coach&isDev=true&tsconfigPath=tsconfig.json&basePath=&assetPrefix=&nextConfigOutput=&preferredRegion=&middlewareConfig=e30%3D!")));
 module.exports = __webpack_exports__;
 
 })();

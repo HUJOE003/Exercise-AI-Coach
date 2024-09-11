@@ -9,3 +9,14 @@ datasource db {
   directUrl = env("DIRECT_URL")
 }
 
+model Assistant {
+  id          String @id @default(uuid())
+  assistantId String @unique
+}
+
+model UserThread {
+  id        String   @id @default(uuid())
+  userId    String   @unique
+  threadId  String
+  createdAt DateTime @default(now())
+}
