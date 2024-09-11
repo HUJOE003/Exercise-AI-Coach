@@ -1,5 +1,11 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/api/message/list/route": "app/api/message/list/route.js",
+  "/api/assistant/route": "app/api/assistant/route.js",
+  "/api/subscription/route": "app/api/subscription/route.js",
+  "/api/user-thread/route": "app/api/user-thread/route.js",
+  "/api/challenge-users/route": "app/api/challenge-users/route.js",
+  "/api/openai/route": "app/api/openai/route.js",
+  "/api/message/create/route": "app/api/message/create/route.js",
   "/(app)/page": "app/(app)/page.js"
 }

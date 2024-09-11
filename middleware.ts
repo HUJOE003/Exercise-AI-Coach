@@ -12,6 +12,7 @@ const isPublicRoute = createRouteMatcher([
   '/api/run/retrieve(.*)',
   '/api/openai(.*)',
   '/api/subscription(.*)',
+  '/api/challenge-users(.*)',
   "/api/send-notifications(.*)",
   ]);
 
