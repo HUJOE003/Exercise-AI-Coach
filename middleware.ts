@@ -10,11 +10,8 @@ const isPublicRoute = createRouteMatcher([
   '/api/message/list(.*)',
   '/api/run/create(.*)',
   '/api/run/retrieve(.*)',
-  '/api/challenge-users(.*)',
-  '/api/challenge-preferences(.*)',
   '/api/openai(.*)',
   '/api/subscription(.*)',
-  '/api/user-thread(.*)',
   "/api/send-notifications(.*)",
   ]);
 
