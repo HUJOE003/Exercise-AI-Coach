@@ -1,5 +1,8 @@
 {
-  "/api/challenge-preferences/route": "app/api/challenge-preferences/route.js",
+  "/api/message/list/route": "app/api/message/list/route.js",
+  "/api/message/create/route": "app/api/message/create/route.js",
+  "/api/run/create/route": "app/api/run/create/route.js",
+  "/api/run/retrieve/route": "app/api/run/retrieve/route.js",
   "/(app)/profile/page": "app/(app)/profile/page.js",
   "/(app)/page": "app/(app)/page.js"
 }
