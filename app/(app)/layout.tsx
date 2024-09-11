@@ -3,7 +3,7 @@
 import { assistantAtom, userThreadAtom } from "@/atoms";
 import Navbar from "@/components/Navbar";
 // import NotificationModal from "@/components/NotificationModal";
-// import useServiceWorker from "@/hooks/useServiceWorker";
+import useServiceWorker from "@/hooks/useServiceWorker";
 import { Assistant, UserThread } from "@prisma/client";
 import axios from "axios";
 import { useAtom } from "jotai";
@@ -20,7 +20,7 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
     useState(false);
 
   // // Hooks
-  // useServiceWorker();
+  useServiceWorker();
 
   useEffect(() => {
     if (assistant) return;
