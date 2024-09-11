@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Exercise-AI-Coach",
   description: "created by Hujoe",
   manifest: "/manifest.json",
-  icons: {apple: '/icon-192x192.png'}
+  icons: {apple: '/icon-192x192.png'},
 };
 
 export default function RootLayout({
