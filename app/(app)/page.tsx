@@ -37,6 +37,7 @@ function ChatPage() {
       // Validation
       if (!response.data.success || !response.data.messages) {
         console.error(response.data.error ?? "Unknown error.");
+        setFetching(false);
         return;
       }
 

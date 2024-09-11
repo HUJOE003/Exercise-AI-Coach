@@ -1,4 +1,9 @@
 {
   "/api/user-thread/route": "app/api/user-thread/route.js",
+  "/api/assistant/route": "app/api/assistant/route.js",
+  "/api/message/list/route": "app/api/message/list/route.js",
+  "/api/message/create/route": "app/api/message/create/route.js",
+  "/api/run/create/route": "app/api/run/create/route.js",
+  "/api/run/retrieve/route": "app/api/run/retrieve/route.js",
   "/(app)/page": "app/(app)/page.js"
 }
